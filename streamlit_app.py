@@ -3,7 +3,6 @@ import streamlit
 import pandas
 import requests
 import snowflake.connector
-import psycopg2
 
 from urllib.error import URLError
 
